@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarangbhalodiya&label=Profile%20views&color=0e75b6&style=flat" alt="tarangbhalodiya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tarang bhalodiya" target="blank"><img src="https://img.shields.io/twitter/follow/tarang bhalodiya?logo=twitter&style=for-the-badge" alt="tarang bhalodiya" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_TarangPatel_" target="blank"><img src="https://img.shields.io/twitter/follow/tarang bhalodiya?logo=twitter&style=for-the-badge" alt="tarang bhalodiya" /></a> </p>
 
 - 🔭 I’m currently working on **Frontened Development**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tarang bhalodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tarang bhalodiya" height="30" width="40" /></a>
+<a href="https://twitter.com/Tarang Patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tarang bhalodiya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tarang-bhalodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarang-bhalodiya" height="30" width="40" /></a>
 <a href="https://fb.com/tarang bhalodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tarang bhalodiya" height="30" width="40" /></a>
 <a href="https://instagram.com/tarang_patel______" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tarang_patel______" height="30" width="40" /></a>
