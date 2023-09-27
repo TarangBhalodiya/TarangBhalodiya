@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarangbhalodiya&label=Profile%20views&color=0e75b6&style=flat" alt="tarangbhalodiya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_TarangPatel_" target="blank"><img src="https://img.shields.io/twitter/follow/Tarang Patel?logo=twitter&style=for-the-badge" alt="Tarang Patel" /></a> </p>
+<p align="left"> <a href="https://instagram.com/tarang_patel______" target="blank"><img src="https://img.shields.io/twitter/follow/Tarang Patel?logo=twitter&style=for-the-badge" alt="Tarang Patel" /></a> </p>
+
 
 - 🔭 I’m currently working on **Frontened Development**
 
