@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **tarangbhalodiya1912@gmail.com**
 
+- 👨‍💼 Intern at **&Span**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <div align="center">
