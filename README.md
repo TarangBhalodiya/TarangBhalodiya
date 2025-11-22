@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tarangbhalodiya1912@gmail.com**
 
-- 👨‍💼 Intern at **7Span**
+- 👨‍💼 Frontend Developer at **7Span**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
